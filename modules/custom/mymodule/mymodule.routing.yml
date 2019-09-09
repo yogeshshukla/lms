@@ -1,0 +1,8 @@
+hero_module.showlist:
+  path: '/subscribe/{cid}'
+  defaults:
+    _controller: '\Drupal\mymodule\Controller\MyController::subscribe'
+    _title: 'Subscribe course'
+  requirements:
+    _permission: 'subscribe permission'
+    

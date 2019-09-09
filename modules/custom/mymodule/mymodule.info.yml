@@ -1,0 +1,6 @@
+name: My Custom Module
+description: My custom module to alter core drupal features
+package: Custom
+
+type: module
+core: 8.x

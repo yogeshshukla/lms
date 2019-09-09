@@ -1,0 +1,12 @@
+h6.field-content{
+text-align: right;
+}
+h6.field-content  > a{
+  background-color: #1d84c3;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
