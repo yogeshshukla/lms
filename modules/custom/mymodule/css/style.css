@@ -10,3 +10,9 @@ h6.field-content  > a{
   display: inline-block;
 }
 
+.view-courses .views-row{	
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d3d7d9;
+}
+
